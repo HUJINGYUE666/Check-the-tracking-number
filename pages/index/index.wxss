@@ -1,0 +1,8 @@
+/**index.wxss**/
+input{
+  border: 1rpx solid #ccc;
+}
+
+button{
+  margin: 50rpx;
+}
